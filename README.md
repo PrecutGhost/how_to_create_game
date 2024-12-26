@@ -8,3 +8,6 @@
 
 ### 游戏策划
 + [游戏核心系统](https://github.com/PrecutGhost/how_to_create_game/blob/main/game_design/%E6%B8%B8%E6%88%8F%E6%A0%B8%E5%BF%83%E7%B3%BB%E7%BB%9F.md)
+
+### 游戏素材制作
++ [SD搭建及使用-制作游戏资产](https://github.com/PrecutGhost/how_to_create_game/blob/main/game_assets_design/empty.md)
