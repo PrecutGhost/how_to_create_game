@@ -11,3 +11,6 @@
 
 ### 游戏素材制作
 + [SD搭建及使用-制作游戏资产](https://github.com/PrecutGhost/how_to_create_game/blob/main/game_assets_design/empty.md)
+
+### git版本控制
++ [git版本控制完整流程](https://github.com/PrecutGhost/how_to_create_game/blob/main/git_%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/Git%E5%81%9A%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86.md)
